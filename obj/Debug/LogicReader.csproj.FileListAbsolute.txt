@@ -1,0 +1,5 @@
+D:\Study\4course\зАЩИТА\Lab2\LogicReader\LogicReader\bin\Debug\LogicReader.exe
+D:\Study\4course\зАЩИТА\Lab2\LogicReader\LogicReader\bin\Debug\LogicReader.pdb
+D:\Study\4course\зАЩИТА\Lab2\LogicReader\LogicReader\obj\Debug\LogicReader.csprojResolveAssemblyReference.cache
+D:\Study\4course\зАЩИТА\Lab2\LogicReader\LogicReader\obj\Debug\LogicReader.exe
+D:\Study\4course\зАЩИТА\Lab2\LogicReader\LogicReader\obj\Debug\LogicReader.pdb

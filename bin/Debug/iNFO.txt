@@ -1,0 +1,10 @@
+{Width=1536, Height=864}
+8192MB
+Mouse Buttons16
+Operating System Name  :  Майкрософт Windows 10 Pro (Registered Trademark)
+Operating System Architecture  :  64-разрядная
+!!!!!!Пользователь Windows
+!!!!!!DESKTOP-J06AMVH
+!!!!!!Multiprocessor Free
+!!!!!!C:\Windows
+D:\Study\4course\зАЩИТА\Lab2\LogicReader\LogicReader\bin\Debug
